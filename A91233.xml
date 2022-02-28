@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevves from Ipswich discovering certaine late detestable practices of some dominiering lordly prelates, to undermine the established doctrine and discipline of our church, extirpate all oxthodox sincere preachers and preaching of Gods Word, usher in Popery, superstition and idolatry.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91233</idno>
+            <idno type="STC">Wing P4021A</idno>
+            <idno type="STC">Thomason E177_12</idno>
+            <idno type="STC">ESTC R9558</idno>
+            <idno type="EEBO-CITATION">99873572</idno>
+            <idno type="PROQUEST">99873572</idno>
+            <idno type="VID">157106</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157106)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E177[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevves from Ipswich discovering certaine late detestable practices of some dominiering lordly prelates, to undermine the established doctrine and discipline of our church, extirpate all oxthodox sincere preachers and preaching of Gods Word, usher in Popery, superstition and idolatry.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>First printed at Ipswich, and now reprinted for T. Bates,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. Attributed to William Prynne.</note>
+                  <note>Signed by Matthew White [i.e. William Prynne].</note>
+                  <note>An attack on Matthew Wren, Bishop of Ely.</note>
+                  <note>Illustrated title page.</note>
+                  <note>Identified as Wing W1797 UMI microfilm set "Early English Books, 1641-1700".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wren, Matthew, 1585-1667 --  Early works to 1800.</term>
+               <term>Church of England --  Liturgy --  Early works to 1800.</term>
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157106:1"/>
+            <pb facs="tcp:157106:1" rendition="simple:additions"/>
+            <p>NEVVES
+FROM
+IPSWICH:
+Diſcovering certaine late deteſtable practices of ſome
+dominiering Lordly Prelates, to undermine the
+eſtabliſhed Doctrine and Diſcipline of our Church,
+extirpate all Oxthodox ſincere Preachers and prea<g ref="char:EOLhyphen"/>ching
+of Gods Word, uſher in Popery,
+Superſtition and Idolatry.</p>
+            <q>
+               <p>VVoe be unto the Paſtors that deſtroy and ſcatter the ſheep of my Flocke, ſaith the
+Lord.</p>
+               <bibl>Ierem. 23. 1.</bibl>
+            </q>
+            <figure>
+               <p>
+                  <hi>Only Canonicall prayers no afternoon ſermons</hi>
+               </p>
+               <p>Alter Cringing
+Prieſt.</p>
+               <p>Church wardens
+for Articles.</p>
+            </figure>
+            <p>Firſt printed at Ipſwich, and now reprinted for <hi>T. Bates.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:157106:2"/>
+            <head>Newes from Ipſwich.</head>
+            <p>CHriſtian Reader, this is the deplorable newes of our preſent age, that our
+Preſſes, formerly open onely to Truth and Piety, are cloſed up againſt
+them both of late, and patent for the moſt part, to nought but error, ſuper<g ref="char:EOLhyphen"/>ſtition,
+and prophaneſſe; witneſſe many <hi>prophane, erroneous, impious bookes,</hi>
+printed within theſe 3. years by authority (point blanke againſt the eſtabli<g ref="char:EOLhyphen"/>ſhed
+doctrine of the Church of <hi>England</hi> and his Majeſties <hi>p<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om declarations)</hi>
+in defence of Arminianiſme, and Popiſh ceremonies; and which is yet more
+impious and deteſtabl<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>againſt the very morality of the Sabbath and 4. Com<g ref="char:EOLhyphen"/>mandement:
+the divine inſtitution, title and intire religious ſanctification of the
+Lords day Sabbath, and the neceſsity of frequent preaching</hi> (exceedingly preſſed
+in our <hi>Homil<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es and book of Ordination)</hi> which ſome of our unpreaching, do<g ref="char:EOLhyphen"/>miniering
+ſecular Prel<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts (our of their A<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch-piety towards God, and Arch<g ref="char:EOLhyphen"/>charity
+to the peoples ſoules which they ſeek to eradicate) now ſo far de<g ref="char:EOLhyphen"/>reſt,
+that they not only give over preaching themſelves, as no part of their
+function; and ſuppreſſe moſt wickedly Lectures in divers countries: but
+have likewiſe lately ſhut up the mouthes of ſundry of our moſt godly, po<g ref="char:EOLhyphen"/>werfull,
+painfull Preachers (who have won more ſoules to God in a yeare,
+then all the Lord Biſhops in England or the whole world have done in di<g ref="char:EOLhyphen"/>vers
+ages) out of meere malice to religion, and the peoples ſalvation, con<g ref="char:EOLhyphen"/>trary
+to the very lawes of God and the Realme; ſtrictly prohibited, under
+paine of ſuſpenſion, in ſundry Dioceſſes, all afternoone Sermons on the
+Lords own day, that ſo the prophane vulgar might have more time to
+dance, play, revell, drink, and prophane Gods Sabbaths, even in theſe dayes
+of plague and peſtilence, to draw downe more plague, and judgements on
+us for that ſin of Sabbath-breaking, when as not only the Synod of <hi>Dort,</hi> but
+ſundry Popiſh Synods and Biſhops have been ſo religious, as to preferre the
+<hi>two Sermons</hi> every Lords day at leaſt in every Pariſh Church, to keep the
+people from ſuch prophanations of this ſacred day. Alas! what could <hi>Bel<g ref="char:EOLhyphen"/>zebub
+the Prince of Divels,</hi> had he been an <hi>Archbiſhop</hi> or Lordly Prelate here
+in England (as there were many ſuch <hi>Biſhops</hi> in <hi>Bernards</hi> age, and moſt ſure
+there are too many now) have done more againſt the ſtrict intire ſanctifica<g ref="char:EOLhyphen"/>tion
+of the Chriſtian Sabbath day, to abuſe the Lords day, and to advance
+<hi>Popiſh innovations</hi> on it; or againſt the frequent powerfull Preachers, and
+preaching of Gods word, and ſalvation of the peoples ſouls, then ſome <hi>Lu<g ref="char:EOLhyphen"/>ciferian
+Lord Biſhops</hi> have lately done? whoſe impiety in this kind tranſcends
+all prefidents whatſoever in former ages. And yet theſe prophane Atheiſti<g ref="char:EOLhyphen"/>call
+perſecuters of all holineſſe, piety, ſincerity, godly Miniſters, &amp; preach<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:157106:2"/>
+of Gods word (yea in theſe peſtilentiall times, as meanes to ſpread the
+plague, though the Scripture and all former ages have preſcribed faſting,
+preaching and praying, as the chiefe antidotes and cure againſt it) will needs
+be <hi>Lord Biſhops Iure divine,</hi> by the holy Ghoſts own inſtitution (who never
+yet inſtituted any unpreaching, rare preaching Prelates, or perſecuters and
+ſuppreſſors of preaching) and ſhame not to ſtile themſelves the <hi>Godly holy
+Fathers of our Church, and pillars of our faith,</hi> when as their fruits and actions
+manifeſt them to be nought elſe but very <hi>Stepfathers</hi> and <hi>Caterpillers,</hi> the ve<g ref="char:EOLhyphen"/>ry
+peſts and plagues of both. Take one freſh inſtance for an example: theſe
+deſperate Archagents for the Divell and <hi>Pope of Rome,</hi> and Maſter undermi<g ref="char:EOLhyphen"/>ners
+of our Religion, as they were the onely inſtruments of delaying the
+preſent generall Faſt in the beginning of the peſtilence, when it was moſt
+acceptable and requiſite: ſo, to ſhew their inveterate malice againſt preach<g ref="char:EOLhyphen"/>ing
+(the thing that the Divell wraſtleth moſt againſt, all whoſe ſtudy hath
+been to decay the office of preaching, which ſhould not be diminiſhed) they
+(contrary to his Majeſties pious intention, who hath ſo oft proteſted againſt
+all innovations) have cunningly cauſed all Sermons (the very life and ſoul
+of a Faſt, as being the only means to humble men for their ſinnes, and bring
+them to repentance) to be prohibited on the Faſt day, both in <hi>London</hi> and
+the <hi>Suburbs,</hi> and in all other infected places, during the time of the infection
+in them; in Pariſhes not infected, (as if preaching only of all Gods ordinan<g ref="char:EOLhyphen"/>ces
+were peſtilentiall, and that on the Faſt day, not on others) contrary to
+the preſidents of all former ages, and the orders for the generall faſts in the
+two laſt great plagues, which preſcribed two Sermons of one houre long a<g ref="char:EOLhyphen"/>peece,
+forenoon and afternoon every faſt day, and that as well in <hi>Pariſhes in<g ref="char:EOLhyphen"/>fected,</hi>
+as others: even in the Summer ſeaſon, when the infection was more
+contagious &amp; raging then now. By which device they have not only made
+this faſt diſtaſtfull to all ſorts of men in infected places, who have little
+heart unto it, robbed the poor of much charitable relief, and deprived the
+people of the ſpirituall food and phyſick of their ſouls, when they need and
+deſire it moſt, to their intolerable griefe and diſcontent, but quite ſuppreſſed
+all ſetled Wedneſday Lectures in <hi>London</hi> and other infected townes, as long
+as the infection ſhall continue in any one Pariſh, though it ſhould laſt theſe
+7. yeares (the thing they principally aimed at:) forced many Miniſters and
+people to flye out of infected places into the Countrey, to keep their Faſts
+where there is preaching; brought in <hi>a famine of Gods word, the greateſt plague
+of all others,</hi> to the increaſing and further ſpreading of the preſent peſti<g ref="char:EOLhyphen"/>lence,
+and drawing down of Gods wrath upon us to the uttermoſt, by inhi<g ref="char:EOLhyphen"/>biting
+<pb facs="tcp:157106:3"/>
+Miniſters in the time of greateſt need, to preach unto the people, that
+they may be ſaved. O heavens! ſtand amazed at this unparalel'd practiſe
+of <hi>impious Popiſh Prelates.</hi> But is this all? No verily: for whereas his Maje<g ref="char:EOLhyphen"/>ſty
+commanded, <hi>That the book of common prayer for the faſt formerly ſet forth
+by his authority upon the like occaſion, ſhould be reprinted;</hi> theſe <hi>Romiſh Inquiſi<g ref="char:EOLhyphen"/>tors</hi>
+have miſerably gelded it, after it was new printed, in ſundry particulars.
+Firſt, they have purged out the prayer for <hi>ſeaſonable weather,</hi> one cauſe of
+the ſhipwracks and tempeſtuous unſeaſonable weather ſince its publication.
+Secondly, they have <hi>daſhed the Lady Elizabeth and her children, in the old
+Collect,</hi> quite out of the new; as they have expunged both them, with our
+gracious King, Queen, and their children, out of the catalogue of Gods e<g ref="char:EOLhyphen"/>lect
+by blotting out this clauſe, <hi>(who art the father of thine Elect, and of their
+Seed)</hi> out of the <hi>Collect</hi> for them in this and all <hi>new Common prayer bookes,</hi> as
+if they were all reprobates, and none of the number of Gods elect, either
+to a temporall or an eternall Crowne. O intolerable impietie, affront, and
+horrid treaſon! Thirdly, they have left out this <hi>Collect: It had been beſt for
+us, &amp;c.</hi> in the new booke (though the moſt effectuall prayer of all) becauſe
+it magnifies <hi>continuall, often preaching of Gods word, and the Scriptures,</hi> and c<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lls
+our powerfull Preachers, <hi>Gods ſerv<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts.</hi> A ſign<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe Prelates have con<g ref="char:EOLhyphen"/>ſpired
+together like ſo many execrable Traytors, to extirpate our frequent
+powerfull Preachers, and continuall preaching of Gods word (as they have
+done in many places of late) though preſcribed by God himſelfe and our
+Homilies. Fourthly, they have daſhed this remarkable clauſe out of the firſt
+<hi>Collect: Thou haſt delivered us from ſuperſtition and idolatry</hi> (two grand cau<g ref="char:EOLhyphen"/>ſes
+both of many former, and our preſent plagues no doubt) <hi>where<g ref="char:EOLhyphen"/>in
+we were utterly drowned, and haſt brought us unto the most cleare and comfor<g ref="char:EOLhyphen"/>table
+light of thy bleſſed word by which wee are taught how to ſerve and honour
+thee, and how to live orderly with our neighbours in truth and verity:</hi> the reſt of
+the <hi>Collect</hi> remaining as before. Now what can be the cauſe of this ſtrange
+purgation, but a reſolved profeſſed conſpiracie of theſe <hi>Romiſh Prelates,</hi> even
+now again utterly to drown us in <hi>Popiſh ſuperſtition and idolatry</hi> (which have
+now drowned us in Gods judgements, by their ſtupendious late increaſe a<g ref="char:EOLhyphen"/>mong
+us) <hi>and to remove us out of the moſt cleare and comfortable light of Gods
+Word, by the which we are taught how to ſerve and honour him</hi> (the true cauſe
+why they now ſuppreſſe <hi>Lectures, Preaching,</hi> and ſuſpend our powerfulleſt
+Preachers every where) that ſo we may walke on in <hi>Romiſh, helliſh darkneſſe,</hi>
+ſerving and honouring the Pope and Divell in ſtead of God, and live in all
+diſorder without truth of verity. Fifthly, in the ſixth order for the faſt, they
+<pb facs="tcp:157106:3"/>
+have pared away this paſſage: <hi>To avoid the inconvenience that may grow by
+by the abuſe of faſting; Some eſteeming it a meritorious worke, others a good work,
+and of it ſelfe acceptable to God, without due regard of the end,</hi> Onely to grati<g ref="char:EOLhyphen"/>fie
+the Papiſts, whoſe <hi>doctrine</hi> is this, and to place ſome merit in this preſent
+faſt: adding this clauſe to it; <hi>in places where Sermons are allowed by the Procla<g ref="char:EOLhyphen"/>mation;</hi>
+on purpoſe to put downe <hi>Wedneſday Lectures,</hi> and preaching in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi>
+and other places where any <hi>Pariſh is infected.</hi> If theſe Prelates bee thus
+deſperatly wicked and <hi>Popiſh,</hi> as to take advantage of Gods judgements to
+ſuppreſſe the preaching and Preachers of his word when it is moſt neceſſa<g ref="char:EOLhyphen"/>ry
+and uſefull, and to countenance, juſtifie, and ſet up Popery, ſuperſtition,
+idolatry, error and diſorder (the chiefe cauſea of our plagues) even in theſe
+dayes of peſtilence, and that is the very <hi>Faſt-book</hi> to abuſe and mocke God
+to his face, to diſhonour his Majeſty, and grieve his peoples ſoules; how
+tranſcendently impious and Popiſh will they prove, when God ſhall ſtay
+this plague, if they be not deſervedly puniſhed for theſe their notorious im<g ref="char:EOLhyphen"/>pieties?
+And is it not high time then for his Majeſty to puniſh ſuch Arch<g ref="char:EOLhyphen"/>traytors
+to our Faith, Church, Religion, and ſuch true-bred ſonnes to Ro<g ref="char:EOLhyphen"/>man
+Antichriſt (from whom Dr. <hi>Pocklington</hi> boaſts, they <hi>are lineally diſcen<g ref="char:EOLhyphen"/>ded)</hi>
+and to execute judgement on them for theſe ſtrange purgations, and o<g ref="char:EOLhyphen"/>ther
+Romiſh innovations, whereat the whole kingdome cries ſhame, which
+breed a generall feare of a ſudden alteration of our Religion? Certainly,
+till his Majeſty ſhall ſee theſe purgations rectified, ſuperſtition and idolatry
+removed, Gods Sabbaths duly ſanctified, the ſuppreſſed Preachers and
+preaching of Gods word reſtored, and purge out ſome of the <hi>Romiſh</hi> Pre<g ref="char:EOLhyphen"/>lates
+and Inquiſitors, wee can never hope to abate any of Gods plagues, or
+draw downe any of his bleſſings on us by ſuch a Faſt and Faſtbook as this,
+but augment his plagues and judgments more &amp; more, which have ſtrange<g ref="char:EOLhyphen"/>ly
+increaſed ſince this faſt begun, contrary to all humane reaſon and proba<g ref="char:EOLhyphen"/>bility,
+whereas it much decreaſed before; the totall number dying of the
+plague the weeke before the Faſt. being but 458. and 58. <hi>Pariſhes infected,</hi>
+and the very firſt weeke of the faſt 838. (treble the number the two laſt
+greateſt plagues) and 67. <hi>Pariſhes infected, in Cambridge, Norwich, Hampton,
+Bath,</hi> and other eminent places cleare before, being likewiſe viſited ſince
+this Faſt begun, a cleare evidence that God is much offended with theſe
+purgations, and the reſtraint of preaching on the Faſt day; againſt which
+ſome Prelates are ſo mad, that they have ſilenced and perſecuted divers
+Miniſters ſince the Faſt proclaimed, there being now ſo many ſuſpended
+in our <hi>Norwich Dioceſſe,</hi> onely for not yeelding to Popiſh innovation, that
+<pb facs="tcp:157106:4"/>
+in ſundry Churches they have neither prayers, preaching, nor faſting
+which hath brought the plague among them, and made the people at their
+wits ends, many Miniſters and people there having left the Kingdome, and
+thouſands more being ready to depart the Land, there being never ſuch a
+perſecution and havock made among Gods Miniſters ſince Q. <hi>Maries</hi> daies,
+as a proud inſolent Prelate hath there lately made, againſt all Lawes of
+God and man, to the aſtoniſhment of the whole Realme. What then can
+we expect but plagues upon plagues, till ſuch deſperate perſecuters be cut
+off, and Gods Word and Miniſters reſtored to their former liberty by our
+moſt gracious Sovaraigne? Perſecution of Gods Miniſters and People, be<g ref="char:EOLhyphen"/>ing
+one chiefe cauſe of plagues. Wherefore, O England, England, if e<g ref="char:EOLhyphen"/>ver
+thou wilt bee free from peſts and judgements, take notice of theſe
+thy Antichriſtian Prelates deſperate practices, innovations, and Popiſh de<g ref="char:EOLhyphen"/>ſignes,
+to bewaile, oppoſe, redreſſe them with all thy force and power.
+O all yee Engliſh Nobles, Courtiers, and others, who have any love or
+ſpark of religion, piety, zeale, any tenderneſſe of his Majeſties honour,
+or care for the peoples, the Church, or Kingdomes ſafety, yet remain<g ref="char:EOLhyphen"/>ing
+within your generous breaſts, put to your helping hands and prayers
+to reſcue our Religion and faithfull Miniſters now ſuſpended, from the
+jawes of theſe devouring Wolves, and tyrannizing Lordly Prelates, who
+make havocke of them both. O our moſt pious King <hi>Charles,</hi> as thou
+haſt in two ſeverall Declarations, proteſted before God, to all thy loving
+Subjects, that thou wilt never give way to the licenſing or authorizing of
+any thing whereby any innovation in the leaſt degree, may creep into our
+Church; nor never connive at any <hi>Backſliding to Popery: And that is my
+hearts deſire to be found worthy of that Title which thou eſteemeſt the moſt glo<g ref="char:EOLhyphen"/>rious
+in all thy Crowne, Defender of the Faith.</hi> So now behold theſe deſpe<g ref="char:EOLhyphen"/>rate
+innovations, purgations, and Romiſh practices of thy Prelates, in o<g ref="char:EOLhyphen"/>pen
+affront of theſe thy Declarations; and now or never ſhew thy ſelfe
+(as wee all hope, beleeve and pray thou wilt) a Prince more worthy of
+this glorious Title, then any of thy Royall progenitors, by rooting all
+Popery, Superſtition, Idolatry, Errours, Innovations, out of this
+Church and Kingdome, by reſtoring the preaching, the Preachers of
+Gods Word, and purity of his Worſhip, and taking vengeance on theſe
+perfidious <hi>Prelates,</hi> who have thus gelded thy Faſt-booke (and intend
+to make an <hi>Index Expurgatorius</hi> upon all other ancient Engliſh Writers
+ere they bee reprinted, a thing conſiderable) thus openly abuſed thy
+onely Siſter; and her Children now preſent with Thee, oppreſſed and
+<pb facs="tcp:157106:4"/>
+grieved thy faithfull ſubjects, diſhonoured thy God, betrayed thy Re<g ref="char:EOLhyphen"/>ligion,
+increaſed the plague among thy people; and as much as in them
+lyeth, robbed thee both of thy Gods and peoples loves, and pulled thy
+Crowne off thy Royall head, to ſet it on their owne ambitious pares, by
+exerciſing all Eccleſiaſticall power; yea, Papall juriſdiction over thy ſub<g ref="char:EOLhyphen"/>jects
+in their owne names and rights alone: and by trampling all thy lawes
+and ſubjects liberties like Cob-webs, thy ſubjects like Dogges and dirt un<g ref="char:EOLhyphen"/>der
+their tyrannicall feet. If thou thus execute judgement on them, and
+eaſe thy people from their intolerable tyranny, no doubt, this plague ſhall
+bee ceaſed, and this Faſt bee pleaſing to the Lord; elſe hee will not accept
+it, but proceed to plague more and more. O bleſſed Soveraigne, that
+thou didſt but heare the ſeverall cries and out-cries of thy people againſt
+theſe perſecuting Prelates in many places; eſpecially in our Norwich
+Dioceſſe, where little <hi>Regulus</hi> hath played ſuch Rex, that hee hath ſuſ<g ref="char:EOLhyphen"/>pended
+above threeſcore of our ſincereſt, painfulleſt, comfortableſt Mini<g ref="char:EOLhyphen"/>ſters,
+both from their Office and Benefice, ſo as many of our Churches
+(as the like was never ſince King <hi>Iohns</hi> dayes) are quite ſhut up, and <hi>Lord
+have mercy upon us,</hi> may bee written on their doores. The people cry for
+the bread of their ſoules, and their Miniſters are prohibited to give it
+them. This not onely wounds, but breakes their hearts, and makes
+them amazed. O therefore! Gracious Soveraigne, help now, and heare
+the petitions, cryes and teares of thy poore people, and puniſh theſe
+<hi>Popelings</hi> for theſe and other innumerable oppreſſions, extortions, inno<g ref="char:EOLhyphen"/>vations
+and harmes, who ſuſpend, impriſon, and ruine others for meere
+toyes and trifles; yea, for defending your <hi>Royall Prerogative</hi> againſt their
+<hi>Papall uſurpations.</hi>
+            </p>
+            <p>This is all the newes I ſhall now impart in this <hi>Coranto;</hi> the next week
+God willing, you ſhall heare of Mr. <hi>Dade</hi> his excommunicating of <hi>Ferdi<g ref="char:EOLhyphen"/>nando
+Adams,</hi> a Church warden in our Town, for not blotting out of this
+ſentence of Scripture written on Mr. <hi>Wards</hi> Church wall over his Court;
+<hi>It is written, My houſe ſhall bee called an houſe of Prayer, but yee have made it a
+den of Theeves:</hi> which excommunication is recorded in <hi>Star-chamber,</hi> of our
+Biſhops commanding. <hi>Woe is me if I preach not the Goſpel;</hi> out of Mr. <hi>Scots</hi>
+Church: and of the ſtrange proceedings at Colcheſter againſt Mr. <hi>Samuel
+Burrowes</hi> for inditing <hi>Necoman</hi> for railing in the Communion Table Altar<g ref="char:EOLhyphen"/>wiſe,
+and cauſing the Communicants to come up to the Raile to receive,
+in a new unaccuſtomed manner, contrary to the Statute of 1. <hi>Eliz. c.</hi> 2. and
+his Majeſties Declarations this laſt <hi>Michaelmas</hi> Seſſions: which inditement
+<pb facs="tcp:157106:5"/>
+the Grand-Iury hath found, but his Majeſty yet can get no judgement. In
+the meane time I ſhall conclude my Newes with the words of <hi>Patrick A<g ref="char:EOLhyphen"/>damſon,</hi>
+Archbiſhop of St. <hi>Andrewes,</hi> in his publicke Recantation in the
+Synod of Fyff, Aprill 8. 1591. <hi>That the office of a Dioceſan Biſhop hath no
+authority at all to ſupport it in the Word of God: That it is onely founded on the
+politicke device of men: That the Primacie of the Pope, or Antichriſt ſprung from
+it: That it is worthily condemned: And that it hath been for five hundred year
+and more, the chiefe originall and inſtrument of the ſuppreſsing the preaching
+of Gods Word in all Kingdomes, as all Eccleſiaſticall Hiſtorians teſtifie.</hi> I
+therefore ſhall cloſe up all with the Collect on St. <hi>Matthias</hi> day; A mighty
+God, which in the place of the traytor, Biſhop <hi>Iudas,</hi> didſt chuſe thy faith<g ref="char:EOLhyphen"/>full
+ſervant <hi>Matthias,</hi> to bee of the number of the twelve Apoſtles,
+grant that thy Church being alwayes preſerved from falſe Apoſtles, may
+bee ordered and guided by faithfull and true Paſtors, through Ieſus Chriſt
+our Lord. And with the Collect on St. <hi>Peters</hi> day; Almighty God,
+which by thy Sonne Ieſus Chriſt, hath given to thy Apoſtle S. <hi>Peter</hi>
+many excellent gifts, and commandeſt him earneſtly to feed
+thy flock; make (we beſeech thee) all Biſhops and Paſtors
+diligently to preach thy holy Word, and the people
+obediently to follow the ſame, that they
+may receive the Crowne of everlaſting
+glory, through Ieſus Chriſt
+our Lord and Saviour.</p>
+            <closer>AMEN.</closer>
+            <closer>
+               <dateline>From Ipſwich, <date>November 12. 1636.</date>
+               </dateline>
+               <signed>Thine in the Lord,
+<hi>Matthew White.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
